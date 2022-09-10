@@ -1,8 +1,9 @@
 import React from "react";
+import "./index.scss";
 
 const App = () => (
   <div>
-    <h1>Hello React</h1>
+    <h1 className="title">Hello Webpack!</h1>
   </div>
 );
 
