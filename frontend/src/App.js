@@ -1,5 +1,6 @@
 import React from "react";
 import "./index.scss";
+import { Spinner } from "@chakra-ui/react";
 
 const App = () => (
   <div>
